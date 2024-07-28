@@ -1,4 +1,4 @@
-##My Data Analyysis
+##My Data Analysis
 This repository contains an Excel workbook with data set, analysis, pivot tables and dashboard.
 ## contents
 Main file for data, along with pivot tables and dashboard.
